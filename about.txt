@@ -1,0 +1,5 @@
+N Rosy Olivia Jeslyn
+Bsc Data Science-2
+GitHub is a cloud-based platform used primarily for version control and collaboration. It allows developers to store, manage, track, and control changes to their code.
+
+GitHub is built around Git, which is a distributed version control system developed by Linus Torvalds (the creator of Linux).
